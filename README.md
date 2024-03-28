@@ -6,7 +6,8 @@
 会社で使いやすい飲食店予約サービスを持つため。  
 
 ##  アプリケーションURL  
-
+開発環境:http://localhost/  
+phpMyAdmin:http://localhost:8080/  
 ##  他のリポジトリ  
 
 ##  機能一覧
