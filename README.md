@@ -1,7 +1,6 @@
 #  飲食店予約アプリ  
 飲食店を予約できるアプリ
-<img width="1234" alt="スクリーンショット 2024-03-30 21 24 30" src="https://github.com/katsukishiori/advance-test/assets/145991391/0dd3bafa-b8f8-4616-836e-878edfdd9d62">
-
+<img width="1234" alt="スクリーンショット 2024-03-31 0 07 10" src="https://github.com/katsukishiori/advance-test/assets/145991391/43576829-469b-4877-ab5b-e7c89d13ad44">
 
 ##  作成した目的
 会社で使いやすい飲食店予約サービスを持つため。  
