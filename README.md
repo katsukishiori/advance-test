@@ -17,5 +17,6 @@ phpMyAdmin:http://localhost:8080/
 
 
 ##  テーブル設計  
+<img width="572" alt="スクリーンショット 2024-03-30 12 31 52" src="https://github.com/katsukishiori/advance-test/assets/145991391/5ab1e340-dea5-4ba8-81fd-4788d12b474c">
 
 ##  環境構築
