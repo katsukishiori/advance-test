@@ -21,6 +21,9 @@ phpMyAdmin:http://localhost:8080/
 ・ストレージに画像保存機能
 
 ##  使用技術  
+・PHP 7.4.9  
+・Laravel 8.83.27  
+・MySQL 
 
 
 ##  テーブル設計  
