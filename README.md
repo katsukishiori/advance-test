@@ -18,6 +18,7 @@ phpMyAdmin:http://localhost:8080/
 ・エリア・ジャンル・店名で検索できる機能  
 ・予約変更機能  
 ・評価機能  
+・ストレージに画像保存機能
 
 ##  使用技術  
 
@@ -35,6 +36,14 @@ Dockerビルド
 6.phpMyAdminの設定  
 7.docker-compose up -d --build  
 
-※MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください
+※MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください  
+
+Laravel環境構築  
+1.docker-compose exec php bash  
+2.composer -vでcomposerがインストールできているか確認  
+3.composer create-project "laravel/laravel=8.*" . --prefer-dist  
+4.php artisan migrate  
+5.php artisan db:seed  
+
 
 
