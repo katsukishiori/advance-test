@@ -29,7 +29,8 @@ phpMyAdmin:http://localhost:8080/
 
 
 ##  テーブル設計  
-<img width="572" alt="スクリーンショット 2024-03-30 12 31 52" src="https://github.com/katsukishiori/advance-test/assets/145991391/5ab1e340-dea5-4ba8-81fd-4788d12b474c">
+<img width="572" alt="スクリーンショット 2024-03-30 12 31 52" src="https://github.com/katsukishiori/advance-test/assets/145991391/77a2051b-d3c3-4013-a444-3bf24fb857f3">
+
 
 ##  環境構築  
 Dockerビルド  
